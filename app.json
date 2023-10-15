@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "expo-draw",
+    "slug": "expo-draw",
+    "version": "0.1.0",
+    "description": "My new module",
+    "sdkVersion": "49.0.0",
+    "platforms": [],
+    "android": {
+      "package": "org.savio99.expodraw"
+    }
+  }
+}

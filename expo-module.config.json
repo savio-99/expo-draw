@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android", "web"],
+  "ios": {
+    "modules": ["ExpoDrawModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.draw.ExpoDrawModule"]
+  }
+}

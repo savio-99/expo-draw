@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-draw": ["../src/index"],
+      "expo-draw/*": ["../src/*"]
+    }
+  }
+}
